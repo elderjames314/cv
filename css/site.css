@@ -98,6 +98,7 @@ ul {
 .intro {
     width: 30%;
     margin: 0 auto;
+    padding-top: 30px;
 }
 
 .contact-message {
