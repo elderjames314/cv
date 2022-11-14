@@ -105,6 +105,12 @@ ul {
     margin: 40px auto 60px;
 }
 
+.contact-image {
+    width: 10%;
+    border-radius: 400px;
+    margin-top: 40px;
+}
+
 .copyright {
     color: #EAF6F6;
     font-size: 0.75rem;
